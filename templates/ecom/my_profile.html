@@ -48,7 +48,7 @@
 <br><br><br>
 <div class="card">
   
-  <img src="{% if c.profile_pic %}{{ c.profile_pic.url }}{% else %}{% static 'images/bg-img.jpg' %}{% endif %}" alt="profile pic" style="width:100%"><br>
+  <img src="{% if c.profile_pic %}{{ c.profile_pic.url }}{% else %}{% static 'images/profilepic.jpeg' %}{% endif %}" alt="profile pic" style="width:100%"><br>
 
   <h3>Username: {{request.user}}</h3>
   <p class="title">Address: {{customer.address}} </p>
