@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>BakeHouseDelights</title>
+  <style media="screen">
+    .footer{
+      position: fixed;
+      
+    }
+  
+  </style>
+</head>
+<body style="background-image: url('{% static "images/bg-img7.png" %}'); background-size: cover; background-repeat: no-repeat; background-position: center;">
+
+  {%if request.user.is_authenticated%}
+    {% include "ecom/customer_navbar.html" %}
+  {%else%}
+    {% include "ecom/navbar.html" %}
+  {%endif%}
+  <br><br><br>
+  <h3 style="text-align: center; color: white;">Quality is at the heart of everything we do. We source the best ingredients—locally and organically whenever possible—and bake each item with care and attention to detail. Whether it’s a classic chocolate chip cookie or an elaborate custom cake, every product is crafted to perfection, ensuring a delicious taste and beautiful presentation. </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  {% include "ecom/footer.html" %}
+  
+</body>
+
+
+</html>
