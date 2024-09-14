@@ -39,3 +39,16 @@ These future enhancements will ensure that Bake House Delights remains a cutting
 <img src="static/C-home.png">
 <img src="static/add-to-cart.png">
 <img src="static/cart.png">
+<img src="static/C-address.png">
+<img src="static/C-pay.png">
+<img src="static/pay-successful.png">
+<img src="static/my-order.png">
+<img src="static/invoice.png">
+<img src="static/Admin-login.png">
+<img src="static/admin-panel.png">
+<img src="static/view-customer.png">
+<img src="static/update-c-details.png">
+<img src="static/view-order.png">
+<img src="static/view-customer.png">
+<img src="static/manage-product.png">
+<img src="static/add-product.png">
