@@ -37,3 +37,4 @@ These future enhancements will ensure that Bake House Delights remains a cutting
 <img src="static/C-signup.png">
 <img src="static/C-Login.png">
 <img src="static/C-home.png">
+<img src="static/add-to-cart.png">
