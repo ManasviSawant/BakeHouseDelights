@@ -33,28 +33,41 @@ Azure Virtual Machines offer Bake House Delights advanced flexibility, scalabili
 These future enhancements will ensure that Bake House Delights remains a cutting-edge platform that meets the evolving needs of bakery businesses, helping them grow, stay competitive, and deliver exceptional customer experiences.
 </p>
 <h2>Screenshots:</h2>
-<p>Bake House Delights Home Page:</p>
+<li>Bake House Delights Home Page:</li>
 <img src="static/Homepage.png">
-<p>About us Page:</p>
+<li>About us Page:</li>
 <img src="static/aboutus.png">
-<p>Customer Sign Up page</p>
+<li>Customer Sign Up page</li>
 <img src="static/C-signup.png">
-<p>Customer Login Page</p>
+<li>Customer Login Page</li>
 <img src="static/C-Login.png">
-<P>Customer Home Page</P>
+<li>Customer Home Page</li>
 <img src="static/C-home.png">
+<li>Customer Can buy Products</li>
 <img src="static/add-to-cart.png">
+<li>Selected Products are shown here</li>
 <img src="static/cart.png">
+<li>fill up the customer order details</li>
 <img src="static/C-address.png">
+<li>Payment Page</li>
 <img src="static/C-pay.png">
+<li>Payment Successful page </li>
 <img src="static/pay-successful.png">
+<li>Customer can Track your order </li>
 <img src="static/my-order.png">
+<li>Here you can download your payment slip</li>
 <img src="static/invoice.png">
+<li>Admin Login page:</li>
 <img src="static/Admin-login.png">
+<li>Admin Panel</li>
 <img src="static/admin-panel.png">
+<li>Admin can view customer details</li>
 <img src="static/view-customer.png">
+<li>Admin can update customer details</li>
 <img src="static/update-c-details.png">
+<li>Admin can view order detals</li>
 <img src="static/view-order.png">
-<img src="static/view-customer.png">
+<li>Admin can manage product</li>
 <img src="static/manage-product.png">
+<li>Admin can add product</li>
 <img src="static/add-product.png">
