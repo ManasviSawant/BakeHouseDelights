@@ -33,3 +33,4 @@ Azure Virtual Machines offer Bake House Delights advanced flexibility, scalabili
 <li>Customer Reviews and Feedback System</li>
 These future enhancements will ensure that Bake House Delights remains a cutting-edge platform that meets the evolving needs of bakery businesses, helping them grow, stay competitive, and deliver exceptional customer experiences.
 </p>
+<img src="/static/homepage.jpg">
