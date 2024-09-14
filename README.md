@@ -1,4 +1,3 @@
-
 <h1>Project Title:Bake house Delights</h1>
 <p>Bake House Delights is an innovative web application tailored for bakery owners and enthusiasts to streamline their daily operations. Whether you're running a bustling bakery or managing orders from home, Bake House Delights simplifies the process of managing inventory, processing customer orders, and tracking sales, all in one place.
 
