@@ -9,7 +9,7 @@ Github Repository URL:
 Sample E-mail and Password:/p>
 <h2>Azure Services Used</h2>
 <p><b>Azure SQL Database:</b></p>
-It is used for creating MySQL database to storing and managing students data.
+It is used for creating MySQL database to storing and managing data.
 <br><br>
 <p><b>Azure Virtual Machine:</b></p>
 Azure Virtual Machines offer Bake House Delights advanced flexibility, scalability, and control over its infrastructure. This is critical for a growing platform that needs to handle fluctuating demands, maintain robust security, and integrate seamlessly into Azure’s broader ecosystem, all while keeping costs manageable and performance optimized.
@@ -34,7 +34,7 @@ These future enhancements will ensure that Bake House Delights remains a cutting
 </p>
 <h2>Screenshots:</h2>
 <li>Azure SQL Database</li>
-<p>It is used for creating MySQL database to storing and managing students data.</p>
+<p>It is used for creating MySQL database to storing and managing data.</p>
 <img src="static/Database.png">
 <li>Azure Virtual Machine</li>
 <img src="static/Virtual-machine.png">
