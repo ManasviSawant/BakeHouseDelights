@@ -62,6 +62,8 @@ These future enhancements will ensure that Bake House Delights remains a cutting
 <img src="static/my-order.png">
 <li>Here you can download your payment slip</li>
 <img src="static/invoice.png">
+<li>Logout page</li>
+<img src="static/logout.png">
 <li>Admin Login page:</li>
 <img src="static/Admin-login.png">
 <li>Admin Panel</li>
@@ -78,3 +80,5 @@ These future enhancements will ensure that Bake House Delights remains a cutting
 <img src="static/manage-product.png">
 <li>Admin can add product</li>
 <img src="static/add-product.png">
+<li>Logout page</li>
+<img src="static/logout.png">
