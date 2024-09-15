@@ -3,8 +3,9 @@
 
 This project aims to bring efficiency to bakery management by providing an intuitive platform that automates key tasks like stock management, order tracking, and customer communication. With real-time inventory updates, customizable product lists, and seamless order processing, Bake House Delights ensures that bakers can focus more on crafting delightful treats and less on administrative work.</p>
 <h2>Project Details</h2>
-<p>Project Demo URL:
-Demo Video URL:
+<p>Project Demo URL: http://4.247.180.192:8000/
+Demo Video URL: https://drive.google.com/file/d/1rC5MAFqesgznIxViAX_lRu9ldEh5Pyl7/view?usp=drive_link
+<br>
 Github Repository URL: https://github.com/ManasviSawant/BakeHouseDelights
 <br>
 Sample E-mail and Password: sawant@123gmail.com and 1234/p>
