@@ -68,7 +68,7 @@ These future enhancements will ensure that Bake House Delights remains a cutting
 <li>Admin can view order detals</li>
 <img src="static/view-order.png">
 <li>Admin can update order status</li>
-<img src="static/update-orderstatus.png">
+<img src="static/upadate-orderstatus.png">
 <li>Admin can manage product</li>
 <img src="static/manage-product.png">
 <li>Admin can add product</li>
