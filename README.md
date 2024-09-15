@@ -5,8 +5,10 @@ This project aims to bring efficiency to bakery management by providing an intui
 <h2>Project Details</h2>
 <p>Project Demo URL:
 Demo Video URL:
-Github Repository URL:
-Sample E-mail and Password:/p>
+Github Repository URL: https://github.com/ManasviSawant/BakeHouseDelights
+<br>
+Sample E-mail and Password: sawant@123gmail.com and 1234/p>
+<br>
 <h2>Azure Services Used</h2>
 <p><b>Azure SQL Database:</b></p>
 It is used for creating MySQL database to storing and managing data.
