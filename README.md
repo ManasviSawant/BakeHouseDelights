@@ -33,6 +33,11 @@ Azure Virtual Machines offer Bake House Delights advanced flexibility, scalabili
 These future enhancements will ensure that Bake House Delights remains a cutting-edge platform that meets the evolving needs of bakery businesses, helping them grow, stay competitive, and deliver exceptional customer experiences.
 </p>
 <h2>Screenshots:</h2>
+<li>Azure SQL Database</li>
+<p>It is used for creating MySQL database to storing and managing students data.</p>
+<img src="static/Database.png">
+<li>Azure Virtual Machine</li>
+<img src="static/Virtual-machine.png">
 <li>Bake House Delights Home Page:</li>
 <img src="static/Homepage.png">
 <li>About us Page:</li>
