@@ -22,6 +22,7 @@ Azure Virtual Machines offer Bake House Delights advanced flexibility, scalabili
 <p>Managing a bakery involves a wide range of tasks, from tracking ingredient inventories to handling customer orders, ensuring timely deliveries, and maintaining financial records. Small and mid-sized bakeries often struggle with manual processes or rely on outdated systems that are inefficient, prone to errors, and time-consuming.</p>
 <h2>Project Description</h2>
 <p>Bake House Delights is a comprehensive web-based platform designed to streamline and optimize the operations of small to medium-sized bakeries. The application offers a suite of tools that automate essential tasks like inventory management, order processing, customer communication, and financial tracking, making it easier for bakery owners and staff to focus on what matters most — delivering delightful baked goods to their customers.
+<br>
 <b>Key Features:</b>
 <li>Inventory Management</li>
 <li>Order Processing</li>
